@@ -40,7 +40,8 @@ public class Main {
 
     //Решение Владислава
     public static void ex2() {
-        List<String> planetsNames = List.of("Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptun", "Pluto");
+        List<String> planetsNames = List
+                .of("Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptun", "Pluto");
         Random random = new Random();
         List<String> list = new ArrayList<>();
 
