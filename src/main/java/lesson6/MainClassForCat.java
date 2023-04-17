@@ -17,7 +17,7 @@ public class MainClassForCat {
         cat2.age = 1;
         System.out.println(cat2.getId());
 
-        Cat cat3 = new Cat(30, 5, "Борис","Gray",  "male", "20230316" );
+        Cat cat3 = new Cat(30, 5, "Борис", "Gray",  "male", "20230316" );
         System.out.println(cat3.getFirstName());
 
 
